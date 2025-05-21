@@ -1,4 +1,5 @@
-#🐤 Flappy Bird Clone (JavaScript)
+#🐤 Flappy Bird Clone (JavaScript)#
+
 A simple Flappy Bird clone built using HTML, CSS, and JavaScript. This browser-based game mimics the classic Flappy Bird experience — tap or click to keep the bird in flight and dodge the pipes!
 
 🎮 Features
